@@ -1,1 +1,1 @@
-Check out this file!
+Created this second readme file from curiosity.
