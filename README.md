@@ -8,4 +8,5 @@
 - Favorite TV show: Magnum P.I. (the OG one), Silicon Valley, Yellowstone.
 
 Tech Stack: JavaScript, HTML, CSS, TypeScript, Express.js, NPM, Node.js, React, MySQL, Postgres  
+
 Currently learning: Vue, PHP, TypeScript
