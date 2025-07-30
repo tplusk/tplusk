@@ -8,7 +8,7 @@ Tech Stack
 | **Languages**     | JavaScript, TypeScript                                                                               |
 | **Testing**       | Jest, Supertest, TDD                                                                                 |
 | **Back-End**      | Node.js, Express.js, PostgreSQL, SQL, Database Migrations & Seeding, REST APIs                       |
-| **Front-End**     | HTML, CSS, React, Next.js, Axios, Insomnia                                                                    |
+| **Front-End**     | HTML, CSS, React, Next.js, Axios, Lighthouse                                                                    |
 | **Practices**     | Git, GitHub, Pair Programming, Agile - SCRUM                                                         |
 | **Hosting**       | Supabase, Render, Netlify
 |**Currently learning**| Vue.js, PHP, TypeScript
