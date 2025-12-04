@@ -13,7 +13,7 @@ Tech Stack
 | **Hosting**       | Supabase, Render, Netlify
 |**Currently learning**| Vue.js, PHP, TypeScript
 
-- I’m currently working on small projects that can deepen my knowledge of software development.
+- At present, I am engaged in small projects that will enhance my understanding of software development.
 - I have just graduated from Northcoders.
 - I’m looking to collaborate on exciting projects.
 - Pronouns: He/Him{1}
