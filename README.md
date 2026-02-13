@@ -17,6 +17,6 @@ Tech Stack
 - I have just graduated from Northcoders.
 - I’m looking to collaborate on exciting projects.
 - Pronouns: He/Him{1}
-- Favorite TV show: Magnum P.I., Silicon Valley, Yellowstone.
+- Favorite TV show: Magnum P.I., Silicon Valley, Yellowstone, Frasier, Cheers.
 
 
